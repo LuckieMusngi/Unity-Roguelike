@@ -1,12 +1,14 @@
-These are my Sprites and Scripts for a fully functional Unity Game I made.
-This was all a personal project so I was never planning to release it, but it shows a lot of my experience in C#. It is my comfort language for personal projects outside of using Python (most of which are web scrapers using Selenium)
+This started as a personal project because I wanted to get better at C# and spend more time building in Unity. It was not supposed to see the light of day, but I hope it shows some of my experience with C# and Unity's API. This is one of the projects I spent the most time on.
 
-I spent a lot of time on this game to better understand C# and Unity's very well-made API.
-The sprites were made with Inkscape, and the scripts were written in Visual Studio 2022.
+Features
+- Procedural generation algorithms for room layout, path linking, and gate state management.
+- OOP in C# with component-based architecture, reusable MonoBehaviour scripts, and clear system separation.
+- Coroutine-driven runtime systems for timing, cooldowns, sequencing, and asynchronous behavior.
+- Physics and object lifecycle handling for projectiles, hit processing, knockback, and spawning.
 
-It uses an auto-generated Dungeon, and the player has 2 weapon slots that can equip different weapons. 
+Engine: Unity (2D)
+Language: C#
+IDE: Visual Studio 2022
+Asset Creation: Inkscape
 
-One of which is for movement (default is to teleport to the projectile on right click), and the other is for damage (default applies stacks to an enemy that can be detonated to deal damage).
-There are four unique enemy types that function completely differently from one another, and a bow boss that is still in progress.
-
-Everything was made completely by me. No outside assets or scripts were used.
+This is a fully personal project. All gameplay scripts and visual assets in this repository were created by me, with no outside scripts or asset packs. 
