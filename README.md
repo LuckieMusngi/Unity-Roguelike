@@ -1,4 +1,4 @@
-This started as a personal project because I wanted to get better at C# and spend more time building in Unity. It was not supposed to see the light of day, but I hope it shows some of my experience with C# and Unity's API. Over 100 hours were put into this project.
+This started as a personal project and was not supposed to see the light of day, but I hope it shows some of my experience with C# and Unity's API. Over 100 focused hours were put into this project.
 
 Features
 - Procedural generation algorithms for room layout, path linking, and gate state management.
